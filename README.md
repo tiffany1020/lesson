@@ -17,11 +17,11 @@ Week 2
 
 Week 3
 --------
-## Stack & Queue
+Stack & Queue
 
 
 
 
 Week 4
 ---------
-## Insertion Sort & Quick Sort
+Insertion Sort & Quick Sort
