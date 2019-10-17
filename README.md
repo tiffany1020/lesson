@@ -25,6 +25,9 @@ Week 3
 
 Week 4
 ---------
+**HW1**
+* [Quick Sort 程式碼](https://nbviewer.jupyter.org/github/tiffany1020/lesson/blob/master/Homework/Quick%20%20Sort.ipynb)
+
 **Insertion Sort**
 > 將資料分成已排序、未排序兩部份，依序由未排序中的第一筆(正處理的值)，插入到已排序中的適當位置，插入時由右而左比較，直到遇到第一個比正處理的值小的值，再插入。比較時，若遇到的值比正處理的值大或相等，則將值往右移。
 
