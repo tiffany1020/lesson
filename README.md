@@ -26,6 +26,8 @@ Week 4
 
 **Insertion Sort & Quick Sort**
 * [筆記整理](https://github.com/tiffany1020/lesson/blob/master/Week4/%E7%AD%86%E8%A8%98.md)
+* [程式碼](https://github.com/tiffany1020/lesson/blob/master/Week4/QuickSort.py)
+
 
 **HW1**
 * [Quick Sort 程式碼](https://nbviewer.jupyter.org/github/tiffany1020/lesson/blob/master/Homework/Quick%20%20Sort.ipynb)
