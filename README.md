@@ -53,3 +53,7 @@ Week 6
 Week 7 
 -------
 **Merge Sort**
+
+Week 8 
+---------
+**Binary Tree**
