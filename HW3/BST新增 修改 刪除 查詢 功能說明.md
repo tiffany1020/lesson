@@ -3,6 +3,12 @@ Insert 新增
 (新增節點，仍必須維持Binary Search Tree的架構。)
 1. 每一個加進去的值，都要與root(parent)進行比較，比root小放左邊，比root大放右邊。
 2. 若是遇到一樣的數值，擺在左邊。
+* 程式寫法:
+1. 先確認root.val是否空值
+2. 將要插入的值(val)建立一個new_node
+3. 開始進行val和root.val的比較
+4. 當val <= root.val 接著確認他的左節點是否為空值，如果是空值，則直接存new_node，如果不是空值，則再次進行insert(root.left,val)
+5. 當val > root.val 接著確認他的右節點是否為空值，如果是空值，則直接存new_node，如果不是空值，則再次進行insert(root.right,val)  
 
 
 Delete 刪除  
