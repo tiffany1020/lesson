@@ -7,8 +7,8 @@ Insert 新增
 1. 先確認root.val是否空值
 2. 將要插入的值(val)建立一個new_node
 3. 開始進行val和root.val的比較
-4. 當val <= root.val 時，接著確認他的左節點是否為空值，如果是空值，則直接存new_node，如果不是空值，則再次進行insert(root.left,val)
-5. 當val > root.val 時，接著確認他的右節點是否為空值，如果是空值，則直接存new_node，如果不是空值，則再次進行insert(root.right,val)  
+4. 當val <= root.val 時，接著確認他的左節點是否為空值，如果是空值，則直接存new_node，如果不是空值，則再次進行self.insert(root.left,val)
+5. 當val > root.val 時，接著確認他的右節點是否為空值，如果是空值，則直接存new_node，如果不是空值，則再次進行self.insert(root.right,val)  
 
 
 Delete 刪除  
@@ -35,7 +35,12 @@ Search 查詢
 * 結果：
 1. 找到欲查詢的數值 → return結果
 2. 沒有找到 → 回傳False (BST內沒有此數值)
-
+* 程式寫法:
+(概念與insert大致相同)
+1. 先確認root.val是否空值
+2. 當root.val=target時，表示找到，進行回傳
+3. 當root.val>target時，接著確認root.left不是空值，則繼續進行self.search(root.left, target)尋找，如果是空值，則回傳False
+4. 當root.val<target時，接著確認root.right不是空值，則繼續進行self.search(root.right, target)尋找，如果是空值，則回傳False
 
 Modify 修改
 ---------------------------
