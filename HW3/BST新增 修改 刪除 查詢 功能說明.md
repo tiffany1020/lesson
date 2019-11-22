@@ -32,3 +32,11 @@ Modify 修改
 (將新的數值修改至指定的節點後，仍必須維持Binary Search Tree的架構。)
 1. 先刪除目標節點
 2. 再加入新的數值
+
+
+參考資料
+---------------------------
+1. http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html
+2.	http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html
+3.	http://alrightchiu.github.io/SecondRound/binary-search-tree-sortpai-xu-deleteshan-chu-zi-liao.html
+4.	http://www.algolist.net/Data_structures/Binary_search_tree/Removal
