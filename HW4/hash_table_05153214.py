@@ -50,7 +50,6 @@ class MyHashSet:
             return False
         
         else:   
-
             while current.next and t != current.val:
                 current=current.next
             if t != current.val:
