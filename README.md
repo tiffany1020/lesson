@@ -11,7 +11,7 @@ Week 2
 ---------
 **Linked List**
 * [筆記整理](https://github.com/tiffany1020/lesson/blob/master/Week2/%E7%AD%86%E8%A8%98.md)
-
+* [Linked List 程式碼](https://github.com/tiffany1020/lesson/blob/master/Week2/Linked%20list.ipynb)
 
 
 Week 3
