@@ -14,6 +14,10 @@ Queue
 6. getSize：回傳Queue裡的資料個數。
 
 **以Linked list實作**
-把每筆資料視為node，並且以pointer前後連結：
+(把每筆資料視為node，並且以pointer前後連結)
 1. Queue的Push()：在list的「尾巴」新增資料。
 2. Queue的Pop()：在list的「開頭」刪除資料。
+
+
+參考資料:
+1. https://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html
