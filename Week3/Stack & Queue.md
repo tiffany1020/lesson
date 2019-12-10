@@ -1,4 +1,4 @@
-Queue
+Queue(First-In-First-Out 先進先出)
 --------
 **特徵**
 1. 隊伍有前方(以front表示)以及後方(以back表示)之分。
@@ -19,5 +19,24 @@ Queue
 2. Queue的Pop()：在list的「開頭」刪除資料。
 
 
+Stack(Last-In-First-Out 後進先出)
+-------------
+**功能**
+1. Push(data)：把資料放進Stack。
+2. Pop：把「最上面」的資料從Stack中移除。
+3. Top：回傳「最上面」的資料，不影響資料結構本身。
+4. IsEmpty：確認Stack裡是否有資料，不影響資料結構本身。
+5. getSize：回傳Stack裡的資料個數，不影響資料結構本身。
+
+**應用**
+1. 編輯器(如word、sublime等等)中的undo。
+2. 網頁瀏覽器的「回到前一頁」功能。
+3. 編譯器(compiler)中的Parsing。
+4. 任何遞迴(recursion)形式的演算法，都可以用Stack改寫，例如Depth-First Search(DFS，深度優先搜尋)。
+5. 於記憶體管理(memory management)中的Call Stack。
+
+
 參考資料:
 1. https://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html
+2. http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html
+3. https://www.geeksforgeeks.org/stack-in-python/
