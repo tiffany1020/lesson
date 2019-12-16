@@ -17,6 +17,7 @@ Week 2
 Week 3
 --------
 **Stack & Queue**
+* [筆記整理](https://github.com/tiffany1020/lesson/blob/master/Week3/Stack%20%26%20Queue.md)
 * [Stack 程式碼](https://github.com/tiffany1020/lesson/blob/master/Week3/Stack.ipynb)
 * [Queue 程式碼](https://github.com/tiffany1020/lesson/blob/master/Week3/Queue.ipynb)
 
