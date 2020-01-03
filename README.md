@@ -6,6 +6,9 @@ About me
 * 興趣：聽音樂、看書、看電影
 
 
+Week 1
+---------
+**講解課堂規則**
 
 Week 2
 ---------
@@ -105,4 +108,20 @@ Week 13
 Week 14 
 ---------
 **Minimum Spanning Tree**
+
+Week 15 
+---------
+**Shortest Path**
+
+Week 16
+---------
+**區塊鏈demo & overview**
+
+Week 17
+---------
+**期末考**
+
+Week 18
+---------
+**放假**
 
