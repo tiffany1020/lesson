@@ -79,6 +79,8 @@ Week 9
 Week 10 
 ---------
 **Red Black Tree**
+* [筆記整理](https://github.com/tiffany1020/lesson/blob/master/Week10/Red%20Black%20Tree.md)
+* [Red Black Tree 程式碼](https://github.com/tiffany1020/lesson/blob/master/Week10/Red%20Black%20Tree.py)
 
 
 Week 11 
