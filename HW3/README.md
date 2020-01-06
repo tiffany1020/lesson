@@ -1,4 +1,4 @@
-HW3 - Binary Search Tre
+HW3 - Binary Search Tree
 -----------------------
 * [binary search tree 程式碼](https://github.com/tiffany1020/lesson/blob/master/HW3/binary_search_tree_05153214.py)
 * [BST流程圖、學習歷程、原理](https://github.com/tiffany1020/lesson/blob/master/HW3/BST%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86.ipynb)
