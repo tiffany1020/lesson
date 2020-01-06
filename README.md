@@ -5,7 +5,8 @@ About me
 * 星座：天秤座
 * 興趣：聽音樂、看書、看電影
 
-**所有檔案都以python為主**
+**此repository都以python為主**
+-----------------
 
 
 Week 1
