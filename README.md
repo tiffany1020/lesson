@@ -10,7 +10,7 @@ Week 1
 ---------
 **講解課堂規則**
 
-* [CodeSignal 練習](https://github.com/tiffany1020/lesson/tree/master/CodeSignal)
+* [CodeSignal 練習](https://github.com/tiffany1020/lesson/tree/master/Codesignal)
 * [Leetcode 練習](https://github.com/tiffany1020/lesson/tree/master/Leetcode)
 
 
