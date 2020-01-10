@@ -6,6 +6,17 @@ About me
 * 興趣：聽音樂、看書、看電影
 
 
+Leetcode
+------
+[Leetcode](https://github.com/tiffany1020/lesson/tree/master/Leetcode)
+
+Codesignal
+--------
+[Codesignal](https://github.com/tiffany1020/lesson/tree/master/Codesignal)
+
+CS50
+-----
+[CS50](https://github.com/tiffany1020/lesson/tree/master/CS50)
 
 Week 1
 ---------
