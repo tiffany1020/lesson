@@ -18,6 +18,15 @@ CS50
 -----
 [CS50](https://github.com/tiffany1020/lesson/tree/master/CS50)
 
+HW
+----
+- [HW1](https://github.com/tiffany1020/lesson/tree/master/HW1)
+- [HW2](https://github.com/tiffany1020/lesson/tree/master/HW2)
+- [HW3](https://github.com/tiffany1020/lesson/tree/master/HW3)
+- [HW4](https://github.com/tiffany1020/lesson/tree/master/HW4)
+- [HW5](https://github.com/tiffany1020/lesson/tree/master/HW5)
+- [HW6](https://github.com/tiffany1020/lesson/tree/master/HW6)
+
 Week 1
 ---------
 **講解課堂規則**
